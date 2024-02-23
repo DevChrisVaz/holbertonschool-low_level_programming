@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+/**
+ * main - returns the size of many var types
+ *
+ * Return: 0 success
+*/
+
+int main(void)
+{
+  char a;
+  int b;
+  long int c;
+  long long int d;
+  float e;
+}
