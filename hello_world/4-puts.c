@@ -3,7 +3,7 @@
 /**
 * main - function that returns a text
 * 
-* Return:  0 (success)
+* Return: 0 (success)
 */
 
 int main(void)
