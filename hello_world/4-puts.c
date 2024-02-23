@@ -2,7 +2,7 @@
 
 /**
 * main - function that returns a text
-* 
+*
 * Return: 0 (success)
 */
 
