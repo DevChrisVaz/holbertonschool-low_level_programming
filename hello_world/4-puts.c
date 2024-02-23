@@ -2,6 +2,7 @@
 
 /**
 * main function return a text"
+*
 * returns always 0(success)
 */
 
