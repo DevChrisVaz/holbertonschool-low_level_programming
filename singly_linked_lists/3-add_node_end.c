@@ -26,7 +26,7 @@ new_list->next = NULL;
 
 if (*head == NULL)
 {
-*head= new_list;
+*head = new_list;
 return (*head);
 }
 else
